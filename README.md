@@ -47,10 +47,11 @@ An Artificial Neural Network (ANN) is built for the classification task. The ste
 
 The ANN model achieved a high level of accuracy in predicting customer churn. The model's performance metrics are as follows:
 
-Accuracy: [Value]%
 
-Precision: [Value]%
+Precision: 77%
 
-Recall: [Value]%
+Recall: 78%
 
-F1 Score: [Value]%
+F1 Score: 77%
+
+This README file provides an overview of the Telecom Customer Churn Prediction project, detailing its objectives, methodology, key features, results, and future work. It serves as a comprehensive guide for understanding the project and its outcomes.
