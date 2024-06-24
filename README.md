@@ -1,11 +1,11 @@
 
-Telecom Customer Churn Prediction
+## Telecom Customer Churn Prediction
 
-#Project Overview
+## Project Overview
 
 The Telecom Customer Churn Prediction project aims to identify the key factors contributing to customer churn and develop a machine learning model to predict customer churn using an Artificial Neural Network (ANN). By understanding these factors, telecom companies can implement proactive strategies to retain customers and reduce churn rates.
 
-#Project Objectives
+## Project Objectives
 
 1.Conduct exploratory data analysis (EDA) to identify significant features contributing to customer churn.
 
@@ -15,7 +15,7 @@ The Telecom Customer Churn Prediction project aims to identify the key factors c
 
 4.Enable periodic churn prediction to allow the company to take preemptive measures to retain customers.
 
-#Methodology
+## Methodology
 
 A. Data Collection
 
@@ -31,7 +31,7 @@ EDA is conducted to uncover the underlying patterns in the data and identify key
 
 3.Feature engineering to create new variables that may influence churn.
 
-#Model Building
+## Model Building
 
 An Artificial Neural Network (ANN) is built for the classification task. The steps include:
 
@@ -43,7 +43,7 @@ An Artificial Neural Network (ANN) is built for the classification task. The ste
 
 4.Model Evaluation: Assessing the model's performance using metrics such as accuracy, precision, recall, and F1 score.
 
-#Results
+## Results
 
 The ANN model achieved a high level of accuracy in predicting customer churn. The model's performance metrics are as follows:
 
